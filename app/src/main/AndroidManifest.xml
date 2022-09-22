@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.app.ducatusapplication">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DucatusApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".EditGoal"
+            android:exported="false" />
+        <activity
+            android:name=".NewGoal1"
+            android:exported="false" />
+        <activity
+            android:name=".EditGoal1"
+            android:exported="true"
+            android:theme="@style/floatingText.DucatusApplication">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TipsDetailVideo"
+            android:exported="false" />
+        <activity
+            android:name=".TipsDetailArticle"
+            android:exported="false" />
+        <activity
+            android:name=".TipsMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GoalMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GoalDetailPassed"
+            android:exported="false" />
+        <activity
+            android:name=".GoalDetailCompleted"
+            android:exported="false" />
+        <activity
+            android:name=".GoalDetail"
+            android:exported="false" />
+        <activity
+            android:name=".ChallengesActivityMissed"
+            android:exported="false" />
+        <activity
+            android:name=".ChallengesMainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddLoanActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BorrowMoney"
+            android:exported="false" />
+        <activity
+            android:name=".ChallengesDetail1"
+            android:exported="false" />
+        <activity
+            android:name=".ChallengesDetail2"
+            android:exported="false" />
+        <activity
+            android:name=".ChallengesTotalEarned"
+            android:exported="false" />
+        <activity
+            android:name=".EditLoanDetail"
+            android:exported="false" />
+        <activity
+            android:name=".EditLoanDetailBorrowMoney"
+            android:exported="false" />
+        <activity
+            android:name=".EditLoanDetailGiveMoney"
+            android:exported="false" />
+        <activity
+            android:name=".FullyPaidLoanDetail"
+            android:exported="false" />
+        <activity
+            android:name=".GiveMoney"
+            android:exported="false" />
+        <activity
+            android:name=".LoanDetail"
+            android:exported="false" />
+        <activity
+            android:name=".LoanDetail2"
+            android:exported="false" />
+        <activity
+            android:name=".LoanMainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".NewGoal"
+            android:exported="false"
+            android:theme="@style/floatingText.DucatusApplication" />
+        <activity
+            android:name=".OverdueLoanDetail"
+            android:exported="false" />
+        <activity
+            android:name=".UnpaidLoanDetail"
+            android:exported="false" />
+    </application>
+
+</manifest>

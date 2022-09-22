@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-anydpi/ic_author.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-anydpi/ic_check.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-anydpi/ic_close.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-anydpi/ic_dropdown.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/addloan_input.xml" value="0.143" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_borrow_receive.xml" value="0.136" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_check.xml" value="0.145" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_checked.xml" value="0.145" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_click.xml" value="0.145" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_give.xml" value="0.136" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_give_borrow_receive.xml" value="0.136" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_green_bg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_loan.xml" value="0.159" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/btn_uncheck.xml" value="0.145" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/cardview_overlay.xml" value="0.1775" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/circle_progressbar.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/curved_bg.xml" value="0.1815" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/custom_progress_bg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/custom_progress_greenbg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/custom_progress_purplebg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/green_circle_bg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1995" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/linestroke_gray.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/linestroke_transparent.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/loanicon_bg.xml" value="0.2045" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/payment_edit_bg.xml" value="0.169" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/purple_bg.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/shape.xml" value="0.159" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/shape_rectangle.xml" value="0.1815" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/square_shape_black.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/square_shape_blue.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/square_shape_green.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/square_shape_red.xml" value="0.1695" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/stroke.xml" value="0.136" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/strokebottom.xml" value="0.1685" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/switchcircle.xml" value="0.2475" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/switchthumb.xml" value="0.2115" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/switchtrack.xml" value="0.2115" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/text_input.xml" value="0.1815" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/drawable/total_loan.xml" value="0.136" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/_edit_loandetail_borrowmoney.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_challenges_detail2.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_edit_loan_detail2.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_loan_detail.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_loan_detail2.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_new_goal1.xml" value="0.2640625" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_overdue_loan_detail.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/activity_tips_detail_video.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/add_loan.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/borrow_money.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/challenges_detail1.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/challenges_detail2.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/challenges_missed.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/challenges_total_earned.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/challengesactivity_main.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/content_tips_detail_video.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/custom_spiner_item.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_goal.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_goal1.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_loandetail.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_loandetail2.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_loandetail_borrowmoney.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/edit_loandetail_givemoney.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/editthis_goal.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_active.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_first.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_fully_paid.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_goal_active.xml" value="0.22" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_goal_paused.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_goal_reached.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_second.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_tips_articles.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/fragment_tips_videos.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/give_money.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goal_detail.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goal_detail_completed.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goal_detail_history.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goal_detail_passed.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goal_detail_reached.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/goalactivity_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/history_loanlist.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_active.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_detail.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_detail2.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_detail_fullypaid.xml" value="0.2640625" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_fullypaid.xml" value="0.20859375" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_list.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loan_list_givemoney.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/loanactivity_main.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/new_goal.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/new_goal1.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/overdue_loan_detail.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/test.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/test_goal.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/tips.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/tips_detail_article.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/tips_detail_video.xml" value="0.33" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/tips_detail_videos.xml" value="0.1523224043715847" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/tipsactivity_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/layout/unpaid_loan_detail.xml" value="0.25" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/addloan_menu.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/check_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/delete_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/edit_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/editgoal_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/editloan_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/loan_givemoney.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/loan_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/newgoal_menu.xml" value="0.22" />
+        <entry key="..\:/Users/alors/AndroidStudioProjects/DucatusApplication/app/src/main/res/menu/search_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/drawable-hdpi/color_blob.xml" value="0.1475" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/drawable/rounded_corners.xml" value="0.1805" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/drawable/shape.xml" value="0.1815" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/drawable/stroke.xml" value="0.1215" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/color_spinner_item.xml" value="0.21" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/custom_spiner_item.xml" value="0.33" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/dropdown_item.xml" value="0.33" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/edit_goal1.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
