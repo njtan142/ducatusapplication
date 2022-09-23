@@ -123,7 +123,10 @@
         <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/color_spinner_item.xml" value="0.21" />
         <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/custom_spiner_item.xml" value="0.33" />
         <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/dropdown_item.xml" value="0.33" />
-        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/edit_goal1.xml" value="0.22" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/edit_goal1.xml" value="0.33" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/icon_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/icon_item.xml" value="0.25" />
+        <entry key="..\:/Users/njtan/Development/DucatusApplication/app/src/main/res/layout/new_goal1.xml" value="0.25" />
       </map>
     </option>
   </component>

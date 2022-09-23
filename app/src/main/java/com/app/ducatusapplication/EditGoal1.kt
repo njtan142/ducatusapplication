@@ -1,19 +1,15 @@
 package com.app.ducatusapplication
 
 import android.content.Context
-import android.graphics.Color
-import android.graphics.drawable.ColorDrawable
-import android.graphics.drawable.Drawable
 import android.graphics.drawable.GradientDrawable
-import android.graphics.drawable.ShapeDrawable
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
-
-import android.widget.ArrayAdapter
-import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
+import androidx.fragment.app.FragmentManager
+import androidx.fragment.app.setFragmentResultListener
 
 
 class EditGoal1 : AppCompatActivity() {
@@ -24,18 +20,6 @@ class EditGoal1 : AppCompatActivity() {
     lateinit var adapterColor: ArrayAdapter<String>
     lateinit var context: Context
 
-
-
-    fun View.setMargins(
-        left: Int = 0,
-        top: Int = 0,
-        right: Int = 0,
-        bottom: Int = 0,
-    ) {
-        layoutParams = (layoutParams as ViewGroup.MarginLayoutParams).apply {
-            setMargins(left, top, right, bottom)
-        }
-    }
 
     fun addColor(name: String, color: Int){
         if(name != null && color != null){
@@ -71,7 +55,6 @@ class EditGoal1 : AppCompatActivity() {
                 return view
             }
 
-
         }
 
         spinner.adapter = adapter
@@ -102,8 +85,22 @@ class EditGoal1 : AppCompatActivity() {
             }
         }
 
+
+        val icons = findViewById<ImageButton>(R.id.spinner_icon)
+
+
+        icons.setOnClickListener {
+            // do something when the corky2 is clicked
+            Toast.makeText(context, "hahahahaha", Toast.LENGTH_SHORT).show()
+            val dialog = IconDialog()
+            dialog.displayIcon = icons
+            dialog.show(supportFragmentManager, "Icon Dialog")
+        }
     }
 
+    fun openDialog(){
+
+    }
 
 }
 

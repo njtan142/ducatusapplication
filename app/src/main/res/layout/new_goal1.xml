@@ -99,7 +99,7 @@
                 android:textStyle="bold" />
 
             <Spinner
-                android:id="@+id/spinnerColor_newGoal1"
+                android:id="@+id/spinner_color"
                 android:layout_width="160dp"
                 android:layout_height="15dp"
                 android:layout_below="@id/Color_newGoal1"
@@ -118,7 +118,7 @@
                 android:layout_below="@id/Color_newGoal1"
                 android:layout_marginTop="4dp"
                 android:layout_marginEnd="5dp"
-                android:layout_toRightOf="@id/spinnerColor_newGoal1"
+                android:layout_toRightOf="@id/spinner_color"
                 android:src="@drawable/ic_dropdown" />
 
         </RelativeLayout>
@@ -141,7 +141,7 @@
                 android:textStyle="bold" />
 
             <Spinner
-                android:id="@+id/spinnerIcon_newGoal1"
+                android:id="@+id/spinner_icon"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/Icon_newGoal1"
@@ -159,7 +159,7 @@
                 android:layout_marginStart="85dp"
                 android:layout_marginTop="4dp"
                 android:layout_marginEnd="5dp"
-                android:layout_toRightOf="@id/spinnerIcon_newGoal1"
+                android:layout_toRightOf="@id/spinner_icon"
                 android:src="@drawable/ic_dropdown" />
 
         </RelativeLayout>
